@@ -32,8 +32,8 @@ This project analyzes survey data from data professionals using Power BI. The go
 
 ## Dashboard Insights
 - **Total Survey Participants**: Number of respondents.
-- **Average Age**: Mean of `Q10 - Current Age`.
-- **Salary by Job Title**: Average salary grouped by `Q1 - Job Title`.
+- **Average Age**: Mean of `Current Age`.
+- **Salary by Job Title**: Average salary grouped by `Job Title`.
 - **Survey Distribution by Country**: Number of respondents per country.
 - **Most Used Programming Language**: Python is the most used, mainly in data science.
 - **Difficulty Breaking into Data Field**: Most respondents found it "Very Easy".
